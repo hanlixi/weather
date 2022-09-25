@@ -1,0 +1,16 @@
+{
+"app_id": "wxa5ecaed18af9be42",
+"app_secret": "28b8153f8932eb1e48c1d1dc55692a6c",
+"template_id": "blaAa8mJkaPBrK18wCuPQxlvT3vH9I_gK5R4IXYSerI",
+"user": ["oIBQ26ksyNeNcNFb9qVCIGmpc4vk","oIBQ26u-IL2gRplCmh_vSe48NLbc"],
+"data": "今天是牛牛🐂的一天",
+"city": "湖南省益阳市",
+"weather": "e98885a3d1844558949c336c676b4633",
+"min_temperature": "e98885a3d1844558949c336c676b4633",
+"max_temperature.DATA": "e98885a3d1844558949c336c676b4633",
+"love_day": "2020-2-10",
+"birthday1": {"name":"🐂牛牛","birthday":"2001-12-08"},
+"birthday2": {"name":"🐱墩墩","birthday":"2022-6-10"},
+"note_en": "",
+"note_ch": "",
+}
